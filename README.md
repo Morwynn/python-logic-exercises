@@ -45,3 +45,13 @@ Este repositório contém minhas soluções para os exercícios e algumas das co
 - Entendimento de que cada lado de um `and` ou `or` precisa ser uma condição completa
 - Uso do `else` para tratar as possibilidades restantes
 - No exercício 5, aprendi a combinar condições usando and e a padronizar entradas de texto usando .lower(). Também experimentei try/except, mas decidi não utilizá-lo porque a validação de entrada não era o objetivo principal desse exercício.
+
+### Exercício 6 — Maior entre três números
+
+* Comparação entre três valores.
+* Uso do operador `and` para combinar condições.
+* Aprendi a diferença entre `>` (maior que) e `>=` (maior ou igual).
+* Percebi que o `>=` permite lidar com números repetidos ao procurar o maior valor.
+* Uso de `f-string` para mostrar o valor armazenado em uma variável dentro do `print`.
+* Aprendi que o Python verifica os blocos `if` e `elif` de cima para baixo e executa o primeiro que for verdadeiro.
+* Percebi que algumas condições podem se tornar desnecessárias ou nunca serem executadas dependendo da ordem das condições.
