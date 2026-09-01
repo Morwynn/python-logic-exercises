@@ -55,3 +55,15 @@ Este repositório contém minhas soluções para os exercícios e algumas das co
 * Uso de `f-string` para mostrar o valor armazenado em uma variável dentro do `print`.
 * Aprendi que o Python verifica os blocos `if` e `elif` de cima para baixo e executa o primeiro que for verdadeiro.
 * Percebi que algumas condições podem se tornar desnecessárias ou nunca serem executadas dependendo da ordem das condições.
+
+### Exercício 7 — Calculadora de desconto
+
+* Aprendi a usar `float` para receber números que podem ter casas decimais.
+* Aprendi a calcular porcentagens usando multiplicação e divisão.
+* Aprendi a calcular um desconto e subtrair esse valor do preço original.
+* Reforcei o uso de `.lower()` para padronizar entradas de texto.
+* Pratiquei `if`, `elif` e `else` com diferentes formas de pagamento.
+* Aprendi a tratar uma opção inválida usando `else`.
+* Percebi que uma operação pode ser colocada dentro de uma condição para ser executada somente quando for necessária.
+* Percebi que repetir código pode indicar que existe uma forma melhor de organizar o programa.
+
