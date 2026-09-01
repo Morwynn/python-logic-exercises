@@ -67,3 +67,14 @@ Este repositório contém minhas soluções para os exercícios e algumas das co
 * Percebi que uma operação pode ser colocada dentro de uma condição para ser executada somente quando for necessária.
 * Percebi que repetir código pode indicar que existe uma forma melhor de organizar o programa.
 
+### Exercício 8 — Classificador de número
+
+* Reforcei o uso de `if`, `elif` e `else`.
+* Aprendi que algumas verificações são independentes e, por isso, podem usar `if` separados.
+* Reforcei o uso dos operadores `>`, `<` e `==`.
+* Reforcei o uso do operador `%` para descobrir o resto de uma divisão.
+* Usei `%` para verificar se um número é par ou ímpar.
+* Usei `%` para verificar se um número é múltiplo de 5.
+* Aprendi que o número `0` não é positivo nem negativo e precisa ser tratado separadamente.
+
+
