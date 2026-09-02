@@ -77,4 +77,19 @@ Este repositório contém minhas soluções para os exercícios e algumas das co
 * Usei `%` para verificar se um número é múltiplo de 5.
 * Aprendi que o número `0` não é positivo nem negativo e precisa ser tratado separadamente.
 
+### Exercício 9 — Loja
+
+* Uso de `input()` para receber nome, preço e quantidade.
+* Conversão de tipos para trabalhar com valores numéricos.
+* Cálculo do valor total da compra utilizando operadores aritméticos.
+* Uso de `if`, `elif` e `else` para criar diferentes faixas de desconto.
+* Comparação de valores para determinar qual percentual de desconto deve ser aplicado.
+* Separação entre o **percentual de desconto**, o **valor do desconto em reais** e o **valor final da compra**.
+* Cálculo de porcentagem utilizando operações matemáticas.
+* Uso de `f-strings` para apresentar as informações de forma organizada.
+* Atenção aos limites das condições, como `100`, `500` e `1.000`.
+* Prática de organizar a lógica para que apenas uma faixa de desconto seja aplicada.
+
+OBS - Tive um pouco de dificuldade para aplicar apenas uma faixa de desconto, então acabei criando uma variavel para cada desconto, deixado lembre para retomar esse exercicio para tentar formas diferentes de solução.
+
 
