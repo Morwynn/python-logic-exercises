@@ -92,4 +92,18 @@ Este repositório contém minhas soluções para os exercícios e algumas das co
 
 OBS - Tive um pouco de dificuldade para aplicar apenas uma faixa de desconto, então acabei criando uma variavel para cada desconto, deixado lembre para retomar esse exercicio para tentar formas diferentes de solução.
 
+### Exercício 10 — Validação de Cadastro
+
+* Uso de `input()` para receber informações do usuário.
+* Uso de `int()` para converter a idade para um número inteiro.
+* Uso de `if`, `elif` e `else` para validar diferentes requisitos do cadastro.
+* Uso de **condições aninhadas**, colocando estruturas `if` dentro de outros blocos condicionais.
+* Entendimento de que a **indentação determina quais instruções pertencem a cada condição**.
+* Uso de `in` para verificar se um valor está presente em uma coleção.
+* Uso de `in` para verificar se uma string contém determinado caractere, como um espaço.
+* Uso de `.lower()` para padronizar o texto digitado pelo usuário e evitar diferenças entre letras maiúsculas e minúsculas.
+* Verificação de strings vazias utilizando `== ''`.
+* Uso de uma tupla para armazenar múltiplos nomes de usuário não permitidos.
+* Prática de controle do fluxo do programa, fazendo uma etapa do cadastro acontecer somente quando a etapa anterior for válida.
+* Entendimento de que uma variável criada dentro de determinado caminho do programa pode não existir caso esse caminho não seja executado.
 
