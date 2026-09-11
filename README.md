@@ -4,14 +4,6 @@ Exercícios de lógica de programação desenvolvidos durante meus estudos de Py
 
 Este repositório contém minhas soluções para os exercícios e algumas das coisas que aprendi durante o processo.
 
-## Exercícios
-
-- 01 - Positivo, negativo ou zero
-- 02 - Par ou ímpar
-- 03 - Maior entre dois números
-- 04 - Classificador de idade
-- 05 - Pode dirigir?
-
 ## O que aprendi
 
 ### Exercício 01 — Positivo, negativo ou zero
